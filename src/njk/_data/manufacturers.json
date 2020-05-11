@@ -1,0 +1,244 @@
+{
+  "manufacturers": [
+    {
+      "name": "3M",
+      "image": "Heinrich Böll",
+      "site": "https://www.3m.com/"
+    },
+    {
+      "name": "Advanced Blending, Inc.",
+      "image": "Annie Proulx",
+      "site": "http://www.advancedblending.com/"
+    },
+    {
+      "name": "Airlite Plastics Corporation",
+      "image": "Leonora Carrington",
+      "site": "http://www.airliteplastics.com/"
+    },
+    {
+      "name": "American Specialties",
+      "image": "Leonora Carrington",
+      "site": "https://americanspecialties.com/"
+    },
+    {
+      "name": "AmerCare",
+      "image": "Leonora Carrington",
+      "site": "https://amercare.com/"
+    },
+    {
+      "name": "Betco",
+      "image": "Leonora Carrington",
+      "site": "https://www.betco.com/"
+    },
+    {
+      "name": "Bobrick",
+      "image": "Leonora Carrington",
+      "site": "https://www.bobrick.com/"
+    },
+    {
+      "name": "Carroll Company",
+      "image": "Leonora Carrington",
+      "site": "https://carrollclean.com/"
+    },
+    {
+      "name": "Claire Manufacturing",
+      "image": "Leonora Carrington",
+      "site": "http://www.clairemfg.com/"
+    },
+    {
+      "name": "Clorox",
+      "image": "Leonora Carrington",
+      "site": "https://www.clorox.com/"
+    },
+    {
+      "name": "Colgate Palmolive",
+      "image": "Leonora Carrington",
+      "site": "https://www.colgatepalmolive.com/en-us"
+    },
+    {
+      "name": "Core Products",
+      "image": "Leonora Carrington",
+      "site": "https://www.coreproductsco.com/products/"
+    },
+    {
+      "name": "Dart",
+      "image": "Leonora Carrington",
+      "site": "https://www.dartcontainer.com/home/"
+    },
+    {
+      "name": "Dial",
+      "image": "Leonora Carrington",
+      "site": "https://www.dialsoap.com/"
+    },
+    {
+      "name": "Diversey",
+      "image": "Leonora Carrington",
+      "site": "https://diversey.com/en"
+    },
+    {
+      "name": "Envirox",
+      "image": "Leonora Carrington",
+      "site": "https://www.enviroxclean.com/"
+    },
+    {
+      "name": "Expanded Technologies",
+      "image": "Leonora Carrington",
+      "site": "https://www.expandedtechnologies.com/"
+    },
+    {
+      "name": "Fresh Products",
+      "image": "Leonora Carrington",
+      "site": "https://freshproducts.com/"
+    },
+    {
+      "name": "Gojo",
+      "image": "Leonora Carrington",
+      "site": "https://www.gojo.com/?sc_lang=en"
+    },
+    {
+      "name": "Golden Star",
+      "image": "Leonora Carrington",
+      "site": "http://www.goldenstar.com/"
+    },
+    {
+      "name": "Hawk Enterprises",
+      "image": "Leonora Carrington",
+      "site": "https://www.hawkenterprises.com/"
+    },
+    {
+      "name": "HLS Commerical",
+      "image": "Leonora Carrington",
+      "site": "https://hlscommercial.com/"
+    },
+    {
+      "name": "Hospeco",
+      "image": "Leonora Carrington",
+      "site": "https://www.hospeco.com/"
+    },
+    {
+      "name": "i-Team North America",
+      "image": "Leonora Carrington",
+      "site": "https://creativeidea.net/"
+    },
+    {
+      "name": "Impact Products",
+      "image": "Leonora Carrington",
+      "site": "https://impact-products.com/"
+    },
+    {
+      "name": "IPC Eagle",
+      "image": "Leonora Carrington",
+      "site": "https://www.ipcworldwide.com/us/"
+    },
+    {
+      "name": "Janico Manufactoring",
+      "image": "Leonora Carrington",
+      "site": "http://janicoinc.com/"
+    },
+    {
+      "name": "Kaivac",
+      "image": "Leonora Carrington",
+      "site": "https://kaivac.com/"
+    },
+    {
+      "name": "Kimberly-Clark Professional",
+      "image": "Leonora Carrington",
+      "site": "https://www.kcprofessional.com/en-us"
+    },
+    {
+      "name": "Lambskin Specialties",
+      "image": "Leonora Carrington",
+      "site": "http://www.lambskin.com/"
+    },
+    {
+      "name": "M + A Matting",
+      "image": "Leonora Carrington",
+      "site": "https://www.mamatting.com/"
+    },
+    {
+      "name": "Mar-Bal",
+      "image": "Leonora Carrington",
+      "site": "https://www.mar-bal.com/language/en/"
+    },
+    {
+      "name": "Mercantile Development",
+      "image": "Leonora Carrington",
+      "site": "https://mdiwipers.com/"
+    },
+    {
+      "name": "Napco Bag & Film",
+      "image": "Leonora Carrington",
+      "site": "https://napcobag.com/"
+    },
+    {
+      "name": "National Chemical Laboratories",
+      "image": "Leonora Carrington",
+      "site": "https://www.nclonline.com/"
+    },
+    {
+      "name": "Pro-Team",
+      "image": "Leonora Carrington",
+      "site": "https://proteam.emerson.com/en-us"
+    },
+    {
+      "name": "Procter & Gamble",
+      "image": "Leonora Carrington",
+      "site": "https://us.pg.com/"
+    },
+    {
+      "name": "Reckitt Benckiser",
+      "image": "Leonora Carrington",
+      "site": "https://www.rb.com/"
+    },
+    {
+      "name": "Republic Bag",
+      "image": "Leonora Carrington",
+      "site": "https://republicbag.com/"
+    },
+    {
+      "name": "Rubbermaid Commercial Products",
+      "image": "Leonora Carrington",
+      "site": "https://www.rubbermaidcommercial.com/"
+    },
+    {
+      "name": "San Jamar",
+      "image": "Leonora Carrington",
+      "site": "https://www.sanjamar.com/"
+    },
+    {
+      "name": "Simple Green",
+      "image": "Leonora Carrington",
+      "site": "https://simplegreen.com/household/"
+    },
+    {
+      "name": "Square Scrub",
+      "image": "Leonora Carrington",
+      "site": "https://www.squarescrub.com/"
+    },
+    {
+      "name": "Tork",
+      "image": "Leonora Carrington",
+      "site": "https://www.torkusa.com/"
+    },
+    {
+      "name": "Tornado",
+      "image": "Leonora Carrington",
+      "site": "https://tornadovac.com/common/index.aspx"
+    },
+    {
+      "name": "Unger",
+      "image": "Leonora Carrington",
+      "site": "https://usa.ungerglobal.com/"
+    },
+    {
+      "name": "Victory Innovations",
+      "image": "Leonora Carrington",
+      "site": "https://victorycomplete.com/"
+    },
+    {
+      "name": "Von Drehle",
+      "image": "Leonora Carrington",
+      "site": "http://www.vondrehle.com/"
+    }
+  ]
+}

@@ -1,21 +1,61 @@
 {% extends '_layouts/base.njk' %}
 
-{% block page_title %}New index page title{% endblock %}
+{% block page_title %}Home{% endblock %}
 
-{% block page_description %}The search description for this page goes here.{% endblock %}
+{% block page_description %}Desoto Janitorial Supply Homepage{% endblock %}
 
 {% block content %}
-<div class="container">
+<div class="container text-center">
   <div class="row">
     <div class="col">
       <h1>Main headline</h1>
-      <p>This is a <a href="detail-entry-example.html">link to a blog entry example</a> which shows a simple detail entry page example. It uses the "data-entry.njk" layout.</p>
-      <p>This is a <a href="detail-book-shipping-news.html">link to a book page example</a> which uses a more complex detail layout (detail-book.njk) where data is pulled into the layout and the page calls for a specific row in the data.</p>
-      <ul> 
-        {% for book in data.books %}
-          <li>{{ book.title }}, {{ book.author }}</li>
-        {% endfor %}
-     </ul>
+      <div class="accordion" id="accordionExample">
+        <div class="card">
+          <div class="card-header" id="headingOne">
+            <h2 class="mb-0">
+              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                About Us
+              </button>
+            </h2>
+          </div>
+            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+              <div class="card-body">
+               DeSoto Janitorial Supply is a locally owned and operated, full-line distributor of jantiorial and cleaning supplies. Count on us to supply you with all the products, machines, and training to keep all of your facilities clean and in good condition. Our goal is to provide the North Texas area high-quality products at competitive pricing, with an emphasis on excellent customer service. 
+              </div>
+           </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingTwo">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                Collapsible Group Item #2
+              </button>
+            </h2>
+          </div>
+          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+            <div class="card-body">
+               Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingThree">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Mission Statement
+              </button>
+            </h2>
+          </div>
+          <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>To be a company of integrity.</p>
+              <p>Work as a dedicated team at all times.</p>
+              <p>Respect each employee's talents and contributions.</p>
+              <p>Provide quality products, outstanding service, and added value through innovation and extra effort.</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
